@@ -1,1 +1,1 @@
-Programming Submissions by JonasGebele@TUM
+Programming Submissions by JonasGebele@TUM for Functional Programming and Verification
