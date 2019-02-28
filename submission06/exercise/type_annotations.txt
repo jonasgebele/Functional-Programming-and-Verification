@@ -1,7 +1,0 @@
-let f = fun x y -> x, [y] = 
-
-'a 'b -> 'a * 'b list =
-
-fun (x: 'a) -> fun (y: 'b) -> (x, [y]) ...
-
-
